@@ -1,0 +1,17 @@
+# 忽略IDE
+.idea/
+
+# 忽略数据文件
+minio/
+
+# 忽略音频
+*.mp3
+
+# 忽略压缩包
+*.zip
+
+# node
+node_modules/
+
+# 日志
+*.log

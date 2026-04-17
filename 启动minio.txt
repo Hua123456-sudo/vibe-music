@@ -1,0 +1,4 @@
+minio server "C:\Users\20375\Desktop\vibe-music\minio\data" --console-address "127.0.0.1:9090" --address "127.0.0.1:9000"
+redis-server.exe redis.conf
+redis-cli.exe -h 127.0.0.1 -p 6379
+ping
